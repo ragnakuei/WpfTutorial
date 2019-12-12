@@ -1,1 +1,1 @@
-¨Ì¾Ú [Tutorial: Create your first WPF application in Visual Studio 2019](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/walkthrough-my-first-wpf-desktop-application) ²£¥Íªº¤º®e
+ä¾æ“š [Tutorial: Create your first WPF application in Visual Studio 2019](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/walkthrough-my-first-wpf-desktop-application) ç”¢ç”Ÿçš„å…§å®¹
